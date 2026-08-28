@@ -4,7 +4,7 @@
 Scanhub is the overarching open-source platform that unifies the diverse software and hardware modules of this project. Designed primarily around the Nexus hardware architecture, it provides a cohesive interface for patient management, scanner control, and automated data workflows, acting as the bridge to cloud-based databases.
 
 ### Overview video
-https://github.com/UKLFR-MR/A4IM_Guide/blob/main/Scanhub_LiveDemo_2026_07.mp4
+<video src='https://github.com/UKLFR-MR/A4IM_Guide/blob/main/Scanhub_LiveDemo_2026_07.mp4' width=800/>
 
 ### Live Demo
 <!-- Video should be placed on GitHub Pages -->
