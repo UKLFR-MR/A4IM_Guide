@@ -57,7 +57,7 @@ Access to unadulterated raw k-space data is a fundamental requirement for reprod
 ### 3.6. Image Reconstruction
 Translating raw k-space data into interpretable medical images requires sophisticated algorithms.
 * [**MRpro**](./mrpro.md) is a dedicated framework specifically designed for this task. It takes raw data and applies advanced reconstruction algorithms, including those required to correct low-field specific artifacts. The trajectory can be calculated when a Pulseq file is provided.
-* **MRSEQ** contributes by providing integrated tools that bridge the gap between how a pulse sequence was designed and how the resulting data should be reconstructed.
+* [**MRSEQ**](./mrseq.md) contributes by providing integrated tools that bridge the gap between how a pulse sequence was designed and how the resulting data should be reconstructed.
 * [**MaRGE**](./marge.md) provides simple integrated reconstruction methods. External reconstructions for example utilizing Tyger can also be added. 
 
 ### 3.7. Post-Processing
