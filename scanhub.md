@@ -6,7 +6,7 @@ Scanhub is the overarching open-source platform that unifies the diverse softwar
 ### Overview video
 Download the video file [here](https://github.com/UKLFR-MR/A4IM_Guide/raw/refs/heads/main/Scanhub_LiveDemo_2026_07.mp4)
 
-Play in this browser using [this link](https://livepush.io/mp4-player/index.html?src=https%3A%2F%2Fgithub.com%2FUKLFR-MR%2FA4IM_Guide%2Fraw%2Frefs%2Fheads%2Fmain%2FScanhub_LiveDemo_2026_07.mp4)
+Play in browser using [this link](https://livepush.io/mp4-player/index.html?src=https%3A%2F%2Fgithub.com%2FUKLFR-MR%2FA4IM_Guide%2Fraw%2Frefs%2Fheads%2Fmain%2FScanhub_LiveDemo_2026_07.mp4) (if you get an error press 'Play MP4' button again)
 
 <!-- Video should eventually be placed on GitHub Pages -->
 <video controls width="800">
@@ -15,6 +15,10 @@ Play in this browser using [this link](https://livepush.io/mp4-player/index.html
 </video>
 
 ### Live Demo
+Download the video file [here](https://github.com/UKLFR-MR/A4IM_Guide/raw/refs/heads/main/Scanhub_Overview_2026_South_Africa.mp4)
+
+Play in browser using [this link](https://livepush.io/mp4-player/index.html?src=https%3A%2F%2Fgithub.com%2FUKLFR-MR%2FA4IM_Guide%2Fraw%2Frefs%2Fheads%2Fmain%2FScanhub_Overview_2026_South_Africa.mp4) (if you get an error press 'Play MP4' button again)
+
 <!-- Video should eventually be placed on GitHub Pages -->
 <video controls width="800">
   <source src="Scanhub_Overview_2026_South_Africa.mp4" type="video/mp4">
