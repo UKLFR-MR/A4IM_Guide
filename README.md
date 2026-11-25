@@ -72,3 +72,6 @@ To foster collaborative research and data sharing, the platform connects to cent
 
 ## 4. Conclusion
 This open-source platform represents a significant leap forward in low-field MRI research. By providing a clear dichotomy of hardware support—the accessible Red Pitaya via MaRGE/MaRCoS, and the high-performance Nexus system via Scanhub—the consortium has ensured that the platform can scale from basic educational setups to advanced research environments. The elimination of proprietary black boxes across all capabilities—from scanner control and tune-ups to image reconstruction and database connectivity—allows for unprecedented transparency. This transparency is the cornerstone of the platform's ability to serve as a reliable benchmarking tool against existing systems and as the foundation for future reproducibility studies in low-field MRI.
+
+# Funding Acknowledgement
+This work was supported by project 22HLT02 A4IM which has received funding from the European Partnership on Metrology, co-financed from the European Union’s Horizon Europe Research and Innovation Programme and by the Participating states.
